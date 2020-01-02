@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DevcampViewTool::Renderer.copyright 'Hugo Abbate', 'Al rights reserved'
+``` 
 
 ## Development
 
